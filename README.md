@@ -255,11 +255,11 @@ I'm using GitHub's special markdown flavor, including tasks lists to track progr
 
 **Create a new branch so you can check items like this, just put an x in the brackets: [x]**
 
-    Fork a branch and follow the commands below
+[x] Fork a branch and follow the commands below
 
-Fork the GitHub repo https://github.com/jwasham/coding-interview-university by clicking on the Fork button.
+[x] Fork the GitHub repo https://github.com/jwasham/coding-interview-university by clicking on the Fork button.
 
-Clone to your local repo:
+[x] Clone to your local repo:
 
     git clone git@github.com:<your_github_username>/coding-interview-university.git
     git checkout -b progress
